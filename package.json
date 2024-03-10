@@ -1,11 +1,11 @@
 {
   "name": "crypto-resolver",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A CoinGecko cryptocurrency API ID resolver",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
