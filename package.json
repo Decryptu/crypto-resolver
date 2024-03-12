@@ -4,7 +4,7 @@
   "description": "A CoinGecko cryptocurrency API ID resolver",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No tests specified. Skipping tests for now.\"",
     "start": "node src/index.js"
   },
   "repository": {
