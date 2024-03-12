@@ -1,6 +1,6 @@
 {
   "name": "crypto-resolver",
-  "version": "v1.0.4",
+  "version": "1.0.3",
   "description": "A CoinGecko cryptocurrency API ID resolver",
   "main": "src/index.js",
   "scripts": {
